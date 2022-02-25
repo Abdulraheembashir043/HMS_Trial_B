@@ -1,0 +1,403 @@
+[
+  {
+    "question": "TWhich of the following languages is more suited to a structured program?",
+    "choice1": "PL/1",
+    "choice2": "FORTRAN",
+    "choice3": "BASIC",
+    "choice4": "PASCAL",
+    "answer": 4
+  },
+  {
+    "question": "Which protocol provides e-mail facility among different hosts?",
+    "choice1": "FTP",
+    "choice2": "SMTP",
+    "choice3": "TELNET",
+    "choice4": "None of the above",
+    "answer": 2
+  },
+  {
+    "question": "The basic architecture of computer was developed by",
+    "choice1": "John Von Neumann",
+    "choice2": "Charles Babbage",
+    "choice3": "Blaise Pascal",
+    "choice4": "Garden Moore",
+    "answer": 1
+  },
+  {
+    "question": "A computer assisted method for the recording and analyzing of existing or hypothetical systems is",
+    "choice1": "Data Transmission",
+    "choice2": "Data Flow",
+    "choice3": "Data Capture",
+    "choice4": "Data Processing",
+    "answer": 2
+  },
+  {
+    "question": "What difference does the 5th generation computer have from other generation computers?",
+    "choice1": "Technological Advancement",
+    "choice2": "Scientific Code",
+    "choice3": "Object Oriented Programming",
+    "choice4": "All of the Above",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following computer language is used for artificial intelligence?",
+    "choice1": "FORTRAN",
+    "choice2": "PROLOG",
+    "choice3": "COBOL",
+    "choice4": "Visual BASIC",
+    "answer": 2
+  },
+  {
+    "question": "Any type of storage that is used for holding information between steps in its processing is",
+    "choice1": "CPU",
+    "choice2": "Primary Storage",
+    "choice3": "Immediate Storage",
+    "choice4": "Internal Storage",
+    "answer": 3
+  },
+  {
+    "question": "What is operating system?",
+    "choice1": "collection of programs that manages hardware resources",
+    "choice2": "system service provider to the application programs",
+    "choice3": "link to interface the hardware and application programs",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "To access the services of operating system, the interface is provided by the",
+    "choice1": "system calls",
+    "choice2": "API",
+    "choice3": "Library",
+    "choice4": "assembly instructions",
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is not true?",
+    "choice1": "kernel is the program that constitutes the central core of the operating system",
+    "choice2": "kernel is the first part of operating system to load into memory during booting",
+    "choice3": "kernel is made of various modules which cannot be loaded in running operating system",
+    "choice4": "kernel remains in the memory during the entire computer session",
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following error will be handle by the operating system?",
+    "choice1": "power failure",
+    "choice2": "lack of paper in printer",
+    "choice3": "connection failure in the network",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "By operating system, the management can be done via",
+    "choice1": "time division multiplexing",
+    "choice2": "space division multiplexing",
+    "choice3": "both (a) and (b)",
+    "choice4": "none of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "The main function of the command interpreter is",
+    "choice1": "to get and execute the next user-specified command",
+    "choice2": "to provide the interface between the API and application program",
+    "choice3": "to handle the files in operating system",
+    "choice4": "none of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is not a real time operating system?",
+    "choice1": "VxWorks",
+    "choice2": "Windows CE",
+    "choice3": "RTLinux",
+    "choice4": "Palm OS",
+    "answer": 4
+  },
+  {
+    "question": "The OS X has",
+    "choice1": "monolithic kernel",
+    "choice2": "hybrid kernel",
+    "choice3": "microkernel",
+    "choice4": "monolithic kernel with modules",
+    "answer": 2
+  },
+  {
+    "question": "_______ is the process of finding errors and fixing them within a program.",
+    "choice1": "Compiling",
+    "choice2": "Executing",
+    "choice3": "Debugging",
+    "choice4": "Scanning",
+    "answer": 3
+  },
+  {
+    "question": "Which command will stop an infinite loop?",
+    "choice1": "Alt + C",
+    "choice2": "Shift + C",
+    "choice3": "Esc",
+    "choice4": "Ctrl + C",
+    "answer": 3
+  },
+  {
+    "question": "The larger the block size, the _______ the internal fragmentation.",
+    "choice1": "Greater",
+    "choice2": "Lesser",
+    "choice3": "Same",
+    "choice4": "none of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "In the sequential access method, information in the file is processed:",
+    "choice1": "one disk after the other, record access doesn't matter",
+    "choice2": "one record after the other",
+    "choice3": "one text document after the other",
+    "choice4": "none of the mentioned",
+    "answer": 2
+  },
+  {
+    "question": "The direct access method is based on a _______ model of a file, as _______ allow random access to any file block.",
+    "choice1": "magnetic tape, magnetic tapes",
+    "choice2": "tape, tapes",
+    "choice3": "disk, disks",
+    "choice4": "all of the mentioned",
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is used to define the structure of the relation, deleting relations and relating schemas?",
+    "choice1": "DML(Data Manipulation Language)",
+    "choice2": "DDL(Data Definition Language)",
+    "choice3": "Query",
+    "choice4": "Relational Schema",
+    "answer": 2
+  },
+  {
+    "question": "Create table employee (name varchar ,id integer) What type of statement is this?",
+    "choice1": "DML",
+    "choice2": "DDL",
+    "choice3": "View",
+    "choice4": "Integrity constraint",
+    "answer": 2
+  },
+  {
+    "question": "Package of software that facilitate modeling of database and improved performance of database system is classified as",
+    "choice1": "tools",
+    "choice2": "tool develpers",
+    "choice3": "programmers",
+    "choice4": "system tools",
+    "answer": 1
+  },
+  {
+    "question": "Function which causes retrieval of any kind of data from database is considered as",
+    "choice1": "Key",
+    "choice2": "Query",
+    "choice3": "Structure",
+    "choice4": "storing cycle",
+    "answer": 2
+  },
+  {
+    "question": "Type data abstraction which allows conceptual representation of data in database management system is considered as",
+    "choice1": "logical design model",
+    "choice2": "data model",
+    "choice3": "interface model",
+    "choice4": "user friendly model",
+    "answer": 2
+  },
+  {
+    "question": "Using a custom animation effect, how do you make text appear on a slide by letter",
+    "choice1": "Apply the animation scheme fade in one by one.",
+    "choice2": "Apply an entrance effect, and then set it to by letter in the effect option dialog box",
+    "choice3": "Apply the fly in entrance to the text, and then set its speed to very slow.",
+    "choice4": "all of the mentioned",
+    "answer": 2
+  },
+  {
+    "question": "You can create a new presentation by completing all of the following except:",
+    "choice1": "Clicking the new button on the standard toolbar",
+    "choice2": "Clicking file, new",
+    "choice3": "Clicking file open",
+    "choice4": "Pressing Ctrl + N",
+    "answer": 3
+  },
+  {
+    "question": "You can tell when an object is active because",
+    "choice1": "The object is highlighted",
+    "choice2": "Eight small sizing handles appear surrounding the text",
+    "choice3": "A box frame appears surrounding the text",
+    "choice4": "b and c",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not an option when printing handouts?",
+    "choice1": "Six slides per page",
+    "choice2": "Five slides per page",
+    "choice3": "Three slides per page",
+    "choice4": "Two slides per page",
+    "answer": 2
+  },
+  {
+    "question": "The slide that is used to introduce a topic and set the tone for the presentation is called the",
+    "choice1": "Table slide",
+    "choice2": "Graph slide",
+    "choice3": "Bullet slide",
+    "choice4": "Title slide",
+    "answer": 4
+  },
+  {
+    "question": "The ability to combine name and addresses with a standard document is called_______",
+    "choice1": "document formatting",
+    "choice2": "Database Management",
+    "choice3": "Mail Merge",
+    "choice4": "Form Letters",
+    "answer": 2
+  },
+  {
+    "question": "The default language of Microsoft Word is_______",
+    "choice1": "USA English",
+    "choice2": "UK English",
+    "choice3": "Canadian English",
+    "choice4": "Australian English",
+    "answer": 1
+  },
+  {
+    "question": "The default size of header and footer is_______",
+    "choice1": "0.5 inch",
+    "choice2": "1 inch",
+    "choice3": "0.75 inch",
+    "choice4": "0.25 inch",
+    "answer": 1
+  },
+  {
+    "question": "Ms Word 2007 allows creation of what type of document by default?",
+    "choice1": "WPF",
+    "choice2": "TXT",
+    "choice3": "DOC",
+    "choice4": "DOCX",
+    "answer": 4
+  },
+  {
+    "question": "Automatically placed drop cap in the line",
+    "choice1": "3 lines",
+    "choice2": "5 lines",
+    "choice3": "2 lines",
+    "choice4": "8 lines",
+    "answer": 1
+  },
+  {
+    "question": "In Ms Word, for what does ruler help?",
+    "choice1": "to set tabs",
+    "choice2": "to set indents",
+    "choice3": "to change page margins",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "In which shortcut key use to center the selecting text.",
+    "choice1": "Ctrl+F",
+    "choice2": "Ctrl+E",
+    "choice3": "Ctrl+M",
+    "choice4": "Ctrl+D",
+    "answer": 2
+  },
+  {
+    "question": "You can hyperlink the file by_______",
+    "choice1": "Pressing the Ctrl+k",
+    "choice2": "Pressing the Ctrl+Shift+K",
+    "choice3": "Hyperlinks command from insert menu",
+    "choice4": "Both A and C",
+    "answer": 4
+  },
+  {
+    "question": "You can break the column by_______",
+    "choice1": "pressing the ctrl+enter",
+    "choice2": "Pressing ctrl+shift+enter",
+    "choice3": "Break command from view menu",
+    "choice4": "Both a and b",
+    "answer": 2
+  },
+  {
+    "question": "Which would you choose to list synonyms and Auto correct of a selected word?",
+    "choice1": "Tools, spelling",
+    "choice2": "Tools, Language",
+    "choice3": "Tools, Options",
+    "choice4": "Shift+F7",
+    "answer": 2
+  },
+  {
+    "question": "You can activate a cell by_______",
+    "choice1": "Pressing the Tab key",
+    "choice2": "Clicking the cell",
+    "choice3": "Pressing an arrow key",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following setup options can not be set in the page setup dialog box?",
+    "choice1": "Printer selection",
+    "choice2": "Vertical or horizontal placement",
+    "choice3": "Orientation",
+    "choice4": "Row and column titles",
+    "answer": 1
+  },
+  {
+    "question": "What term refers to a specific set of values saved with the workbook?",
+    "choice1": "Range",
+    "choice2": "Scenario",
+    "choice3": "Trend line",
+    "choice4": "What-if analysis",
+    "answer": 2
+  },
+  {
+    "question": "when you use the fill effects in the format data series dialog box, you can not_______",
+    "choice1": "rotate text on the chart",
+    "choice2": "select a fore ground color",
+    "choice3": "select a pattern",
+    "choice4": "select a background color",
+    "answer": 1
+  },
+  {
+    "question": "Paper spreadsheets can have all the same advantages as an electronic spreadsheet except which of the following?",
+    "choice1": "Rows and columns",
+    "choice2": "Headings",
+    "choice3": "Speed",
+    "choice4": "none of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "What's a quick way to extend these numbers to a longer sequence, for instance 1 through 20?",
+    "choice1": "Select both cells, and then drag the fill handle over the range you want, for instance 18 more rows",
+    "choice2": "Select the range you want, include both cells, point to fill on the Edit menu, and then click down.",
+    "choice3": "Copy the second cell, click in the cell below it, on the standard toolbar click the down arrow on the Paste button, and then click Paste Special",
+    "choice4": "all of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "A webpage displays a picture. What tag was used to display that picture?",
+    "choice1": "picture",
+    "choice2": "image",
+    "choice3": "img",
+    "choice4": "src",
+    "answer": 3
+  },
+  {
+    "question": "<b> tag makes the enclosed text bold. What is other tag to make text bold?",
+    "choice1": "&lt;strong&gt;",
+    "choice2": "&lt;dar&gt;",
+    "choice3": "&lt;black&gt;",
+    "choice4": "&lt;emp&gt;",
+    "answer": 1
+  },
+  {
+    "question": "Which tag allows you to add a row in a table?",
+    "choice1": "&lt;td&gt; and &lt;/td&gt;",
+    "choice2": "&lt;cr&gt; and &lt;/cr&gt;",
+    "choice3": "&lt;th&gt; and &lt;/th&gt;",
+    "choice4": "&lt;tr&gt; and &lt;/tr&gt;",
+    "answer": 4
+  },
+  {
+    "question": "How can you make a bulleted list?",
+    "choice1": "&lt;list&gt;",
+    "choice2": "&lt;nl&gt;",
+    "choice3": "&lt;ul&gt;",
+    "choice4": "&lt;ol&gt;",
+    "answer": 3
+  }
+  
+]
